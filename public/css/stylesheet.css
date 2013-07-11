@@ -1,0 +1,10 @@
+.page {
+  max-width: 978px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px 0;
+}
+
+.shoutout {
+  font-size: 24px;
+}
